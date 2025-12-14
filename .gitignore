@@ -35,3 +35,21 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Logs ###
+*.log
+logs/
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### Test Reports ###
+**/test-results/
+**/coverage/
+**/jacoco/
+
+### Environment Files ###
+.env
+.env.local
+*.env
